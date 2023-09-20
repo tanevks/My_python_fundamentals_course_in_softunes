@@ -1,0 +1,2 @@
+# My_python_fundamentals_course_in_softunes
+homework september 2023 python
